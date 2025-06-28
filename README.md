@@ -4,8 +4,6 @@ A machine learning web application built with Flask that loads a pre-trained mod
 
 ---
 
----
-
 ## 🚀 Features
 
 - Flask-powered web application
