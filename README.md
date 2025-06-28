@@ -4,27 +4,6 @@ A machine learning web application built with Flask that loads a pre-trained mod
 
 ---
 
-## 📁 Project Structure
-
-.
-├── .github/ # GitHub actions for CI/CD
-├── .vscode/ # Editor configuration
-├── templates/ # HTML templates for the Flask app
-├── app.py # Flask application entry point
-├── first.ipynb # Jupyter notebook used for model development
-├── model.pkl # Serialized machine learning model
-├── first.json # Additional data or configuration
-├── requirement.txt # Python dependencies
-├── Dockerfile # Docker container configuration
-├── procfile # Deployment config for Heroku
-├── LICENSE # License for usage
-├── README.md # Project documentation
-└── pickle/ # Possibly contains other pickled assets
-
-yaml
-Copy
-Edit
-
 ---
 
 ## 🚀 Features
@@ -90,9 +69,6 @@ This project is licensed under the terms of the MIT License. See the LICENSE fil
 🙌 Acknowledgments
 Developed and maintained by Srijan Prasad. Contributions are welcome!
 
-yaml
-Copy
-Edit
 
 ---
 
